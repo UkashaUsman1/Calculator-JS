@@ -9,12 +9,12 @@ document.querySelectorAll(".keys").forEach((button) => {
   });
 });
 
-document.querySelector("clear").addEventListener("click", () => {
+document.querySelector("#clear").addEventListener("click", () => {
   currentDisplay = "";
   display.value = currentDisplay;
 });
 
-document.querySelector("equal").addEventListener("click", () => {
+document.querySelector("#equal").addEventListener("click", () => {
   try {
     currentDisplay = eval(currentDisplay);
     display.value = currentDisplay;
