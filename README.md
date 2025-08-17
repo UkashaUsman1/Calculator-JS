@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator Web App
+# 🧮 Simple Calculator Web App (HTML-CSS-JS)
 
 This is a basic **Calculator** built using **HTML**, **CSS**, and **JavaScript**.  
 It supports the following operations:
